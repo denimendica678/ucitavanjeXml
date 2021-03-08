@@ -1,0 +1,7 @@
+C:\Users\Učenik 3\source\repos\zadatakXml\zadatakXml\bin\Debug\zadatakXml.exe.config
+C:\Users\Učenik 3\source\repos\zadatakXml\zadatakXml\bin\Debug\zadatakXml.exe
+C:\Users\Učenik 3\source\repos\zadatakXml\zadatakXml\bin\Debug\zadatakXml.pdb
+C:\Users\Učenik 3\source\repos\zadatakXml\zadatakXml\obj\Debug\zadatakXml.csprojAssemblyReference.cache
+C:\Users\Učenik 3\source\repos\zadatakXml\zadatakXml\obj\Debug\zadatakXml.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\source\repos\zadatakXml\zadatakXml\obj\Debug\zadatakXml.exe
+C:\Users\Učenik 3\source\repos\zadatakXml\zadatakXml\obj\Debug\zadatakXml.pdb
